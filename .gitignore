@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 本目录中与本项目无关的其他工作目录
+ScreenRecorder/
+
+# ZCode 会话元数据
+.zcode/
+
+# 临时验证文件
+panel_check.png
+overlay_check.png
+docs/_overlay_raw.png
